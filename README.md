@@ -1,5 +1,7 @@
 # Awesome Hacking Tools
 
+Keep Save!!! "for educational purposes only"
+
 A curated list of awesome Hacking Tools. If you want to contribute to this list send me a pull request.
 ___________________________________________________________________________________________________________
 * __0trace__	1.5	A hop enumeration tool	http://jon.oberheide.org/0trace/
